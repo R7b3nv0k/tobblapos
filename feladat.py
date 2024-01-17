@@ -5,5 +5,6 @@ st.set_page_config(
   page_icon=("✔"),
 
 )
-st.title("Main page"),
-st.sidebar.successs("Válassz."),
+
+st.title("Main page")
+st.sidebar.successs("Válassz.")
